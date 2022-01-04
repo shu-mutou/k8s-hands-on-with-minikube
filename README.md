@@ -1,1 +1,1 @@
-# k8s-hands-on-with-minikube
+# Sample for deploying kubernetes cluster with minikube
