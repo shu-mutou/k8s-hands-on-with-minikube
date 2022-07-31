@@ -1,6 +1,6 @@
 #!/bin/bash
 
-K8S_VERSION=1.23.1
+K8S_VERSION=1.24.3
 BIND_ADDRESS=192.168.100.13
 
 # cleanup minikube
